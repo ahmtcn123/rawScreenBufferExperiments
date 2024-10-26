@@ -1,0 +1,10 @@
+[package]
+name = "winitExperiment"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+winit = "0.30.5"
+softbuffer = "0.4.6"
+rand = "0.8.5"
+fontdue = "0.9.2"
